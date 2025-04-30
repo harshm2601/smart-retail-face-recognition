@@ -47,8 +47,8 @@ This project implements multiple face recognition approaches to identify custome
 
 1. **Clone or download this repository:**
    ```
-   git clone <repository-url>
-   cd Redcone
+   git clone https://github.com/harshm2601/smart-retail-face-recognition.git
+   cd smart-retail-face-recognition
    ```
 
 2. **Install dependencies:**
@@ -69,7 +69,7 @@ This project implements multiple face recognition approaches to identify custome
 ## 📂 Project Structure
 
 ```
-Redcone/
+smart-retail-face-recognition/
 ├── main.py                 # Implementation using face_recognition
 ├── deepface1.py            # Implementation using DeepFace with VGG-Face
 ├── deepface2.py            # Implementation using DeepFace with folder storage
@@ -160,7 +160,3 @@ Redcone/
 ## 📜 License
 
 This project is for educational and internal use only.
-
-## 👨‍💻 Credits
-
-Developed as part of an internship task at Redcone.
